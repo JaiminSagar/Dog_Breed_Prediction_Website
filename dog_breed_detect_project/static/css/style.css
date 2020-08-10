@@ -1,0 +1,21 @@
+.background{
+    background-image: url("../img/back1.jpg");
+    background-size: cover;
+    /* padding-bottom: 10%; */
+    background-position: initial;
+}
+
+.form-back{
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+body{
+    background-image: url("../img/back2.jpg");
+    background-size: cover;
+}
+
+form{
+    color: rgb(255, 255, 255);
+    text-decoration: whitesmoke;
+}
